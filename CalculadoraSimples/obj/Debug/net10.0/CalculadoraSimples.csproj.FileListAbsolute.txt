@@ -1,0 +1,14 @@
+C:\csharp\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.exe
+C:\csharp\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.deps.json
+C:\csharp\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.runtimeconfig.json
+C:\csharp\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.dll
+C:\csharp\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.pdb
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.AssemblyInfo.cs
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.dll
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\refint\CalculadoraSimples.dll
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.pdb
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.genruntimeconfig.cache
+C:\csharp\CalculadoraSimples\obj\Debug\net10.0\ref\CalculadoraSimples.dll
