@@ -1,0 +1,15 @@
+C:\csharp\VerificarParImpar\bin\Debug\net10.0\VerificarParImpar.exe
+C:\csharp\VerificarParImpar\bin\Debug\net10.0\VerificarParImpar.deps.json
+C:\csharp\VerificarParImpar\bin\Debug\net10.0\VerificarParImpar.runtimeconfig.json
+C:\csharp\VerificarParImpar\bin\Debug\net10.0\VerificarParImpar.dll
+C:\csharp\VerificarParImpar\bin\Debug\net10.0\VerificarParImpar.pdb
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.AssemblyInfoInputs.cache
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.AssemblyInfo.cs
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.csproj.CoreCompileInputs.cache
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.sourcelink.json
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.dll
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\refint\VerificarParImpar.dll
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.pdb
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\VerificarParImpar.genruntimeconfig.cache
+C:\csharp\VerificarParImpar\obj\Debug\net10.0\ref\VerificarParImpar.dll
